@@ -14,6 +14,6 @@ Correlation between GDP per capita and life expectancy: The scatter plot shows t
 Make sure the server is running on port 8000. If it is running on any other port, make a note of the port.
 - Open Google Chrome. Type the following in the address bar: http://localhost:8000/
 If the server is running on any other port, replace the port number after localhost:
-- You should be able to see the files in your browser. Click and open UI.html
+- You should be able to see the files in your browser. Click and open index.html
  
 Note: Make sure you have the node modules installed. Contact me for the csv files that contain data.
